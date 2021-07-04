@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115704015452",
+    "project_id": "locadoraveiculos-2eda1",
+    "storage_bucket": "locadoraveiculos-2eda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115704015452:android:c0965ad7e11724b0bed499",
+        "android_client_info": {
+          "package_name": "com.appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115704015452-qddgjk5n345n769fnlfe070igstn4ijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAKGpTUHtHV8tufKAGFIk8pzi_qLk0XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115704015452-qddgjk5n345n769fnlfe070igstn4ijs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
